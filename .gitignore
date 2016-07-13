@@ -1,5 +1,8 @@
-
 *.swp
 *.swo
 node_modules/
 *.sqlite
+
+npm-debug.log
+invoker.ini
+.ruby-version
